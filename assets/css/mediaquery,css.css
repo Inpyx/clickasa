@@ -1,0 +1,657 @@
+* Resolução Mobile */ @media screen and (max-width: 320px) {
+  .logo-header img {
+    width: 100px;
+  }
+  .logo-center img {
+    margin-top: 40%;
+    width: 315px !important;
+  }
+  .quem-somos .bloco-img h2 {
+    font-size: 30px;
+  }
+  .quem-somos .bloco-texto h3 {
+    font-size: 15px;
+  }
+  .quem-somos .bloco-texto p {
+    font-size: 12px;
+  }
+  .quem-somos .bloco-socios .socios div p {
+    font-size: 12px;
+  }
+  .diferencial h2 {
+    font-size: 30px;
+  }
+  .diferencial .blocos .bloco {
+    width: 260px;
+    height: 260px;
+  }
+  .diferencial .blocos .bloco h4 {
+    font-size: 18px;
+  }
+  .diferencial .blocos .bloco p {
+    font-size: 14px;
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 9px !important;
+  }
+  .desafios .title h2 {
+    font-size: 30px;
+  }
+  .c-cinza h5 .btn-link,
+  .cc-cinza h5 .btn-link {
+    font-size: 18px !important;
+  }
+  .card-body {
+    font-size: 11px !important;
+  }
+  .resultados .bloco-texto h2 {
+    font-size: 30px;
+  }
+  .resultados .bloco-texto p {
+    font-size: 12px;
+  }
+  .contato .bloco-texto-contato h2 {
+    font-size: 30px;
+  }
+  .contato .bloco-texto-contato p {
+    font-size: 12px;
+  }
+  footer .logo img {
+    width: 100px;
+  }
+  footer .menu ul {
+    font-size: 12px;
+  }
+  footer .endereco div p {
+    font-size: 12px;
+  }
+  footer .whats div p {
+    font-size: 12px;
+  }
+  .copy {
+    font-size: 8px;
+  }
+}
+
+/* Resolução Mobile */
+
+@media screen and (max-width: 375px) {
+  .logo-center {
+    margin-top: 170px;
+  }
+
+  .diferencial h2 {
+    font-size: 44px;
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 12px !important;
+  }
+  .icone-scroll {
+    margin-left: -8% !important;
+  }
+
+  .icone-scroll-footer {
+    margin-left: 28% !important;
+  }
+  .modal-desc img {
+    width: 80px;
+    position: absolute;
+    right: 0;
+    left: auto;
+    margin-top: -75px;
+  }
+
+  .icone-scroll-footer {
+    position: absolute !important;
+  }
+
+  /* .slick-dots li.slick-active button:before {
+    color: white !important;
+    font-size: 59px !important;
+  } */
+}
+
+/* Resolução Mobile */
+
+@media screen and (max-width: 414px) {
+  .back-for-top {
+    background-color: transparent !important;
+  }
+  .back-for-top:hover {
+    background-color: none;
+  }
+  .logo-header img {
+    width: 120px;
+  }
+
+  #wrapper img {
+    display: none;
+  }
+
+  header .container-banner .logo-center img {
+    width: 360px;
+  }
+
+  .diferencial .blocos .bloco h4 {
+    font-size: 20px;
+  }
+
+  .diferencial .blocos .bloco p {
+    font-size: 15px;
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 12px !important;
+  }
+  .desafios .title h2 {
+    font-size: 35px;
+  }
+  .c-cinza h5 .btn-link,
+  .cc-cinza h5 .btn-link {
+    font-size: 20px !important;
+  }
+
+  .card-body {
+    font-size: 13px !important;
+  }
+
+  .resultados .bloco-texto h2 {
+    font-size: 35px;
+  }
+
+  .resultados .bloco-texto p {
+    font-size: 13px;
+  }
+
+  .contato .bloco-texto-contato h2 {
+    font-size: 35px;
+  }
+
+  .contato .bloco-texto-contato p {
+    font-size: 13px;
+  }
+
+  footer .logo img {
+    width: 120px;
+  }
+
+  footer .menu ul {
+    font-size: 13px;
+  }
+
+  .copy {
+    font-size: 8px;
+  }
+
+  footer .endereco div p {
+    font-size: 13px;
+  }
+
+  .btn-leiaMais h5 .btn-link,
+  .btn-leiaMais h5 .btn-link {
+    left: 210px !important;
+  }
+
+  .content-modal .modal-header {
+    padding: 0rem 1rem !important;
+  }
+
+  .slick-dots {
+    bottom: -125px !important;
+    left: 0px !important;
+  }
+
+  .slick-dots li.slick-active button:before {
+    color: white !important;
+    font-size: 31px !important;
+    position: absolute;
+    top: -4px;
+    left: -3.64px;
+  }
+
+  .slick-dots li button {
+    width: 10px !important;
+    height: 10px !important;
+    padding: 5px !important;
+    border-radius: 30% 0px 30% 0px !important;
+  }
+
+  .whats a {
+    display: contents;
+  }
+}
+
+/* Resolução Mobile */
+
+@media screen and (max-width: 495px) {
+  header {
+    height: 92vh;
+  }
+
+  .diferencial .container div > .bloco-precatorios div {
+    width: 100% !important;
+  }
+
+  .diferencial .container div > .bloco-precatorios p:first-child {
+    padding: 10px 30px 20px 30px !important;
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 14px;
+  }
+
+  .contato button {
+    width: 100%;
+  }
+
+  .diferencial h2 {
+    text-align: center;
+    font-size: 35px;
+  }
+
+  .resultados .row div:last-child img {
+    margin-top: 15px;
+  }
+
+  header .container .logo-center img {
+    max-width: 432px;
+  }
+
+  .icone-scroll {
+    margin-left: -7% !important;
+  }
+
+  .icone-scroll-footer {
+    position: absolute !important;
+  }
+  .quem-somos .bloco-img h2 {
+    font-size: 35px;
+    line-height: 25px;
+  }
+
+  .quem-somos .bloco-texto h3 {
+    font-size: 18px;
+  }
+
+  .quem-somos .bloco-texto p {
+    font-size: 13px;
+  }
+
+  .quem-somos .bloco-socios .socios div p {
+    font-size: 13px;
+  }
+
+  .quem-somos .bloco-socios .socios div button {
+    padding: 0px 5px 5px 5px;
+  }
+
+  .icone-scroll-footer {
+    margin-left: 28% !important;
+  }
+  /* Modal´s */
+
+  .content-modal {
+    width: 100% !important;
+  }
+  .modal-desc img {
+    display: none;
+  }
+
+  .modal-desc {
+    padding: 50px 10px 0px 20px !important;
+    background-color: #fff !important;
+    width: 95%;
+    border-radius: 1.3rem !important;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .modal-desc h2 {
+    font-size: 30px;
+    line-height: 26px;
+  }
+
+  .modal-desc h1 {
+    font-size: 16px;
+  }
+
+  .modal-desc ul li {
+    font-size: 12px;
+  }
+
+  .modal-desc-dois img {
+    display: none;
+  }
+
+  .modal-desc-dois {
+    padding: 50px 10px 0px 20px !important;
+    background-color: #fff !important;
+    width: 95%;
+    border-radius: 1.3rem !important;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .modal-desc-dois h2 {
+    font-size: 30px;
+    line-height: 26px;
+  }
+
+  .modal-desc-dois h1 {
+    font-size: 16px;
+  }
+
+  .modal-desc-dois ul li {
+    font-size: 12px;
+  }
+
+  .modal-desc-tres img {
+    display: none;
+  }
+
+  .modal-desc-tres {
+    padding: 50px 10px 90px 20px !important;
+    background-color: #fff !important;
+    width: 95%;
+    border-radius: 1.3rem !important;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .modal-desc-tres h2 {
+    font-size: 30px;
+    line-height: 26px;
+  }
+
+  .modal-desc-tres h1 {
+    font-size: 16px;
+  }
+
+  .modal-desc-tres ul li {
+    font-size: 12px;
+  }
+
+  .modal-desc-quatro img {
+    display: none;
+  }
+
+  .modal-desc-quatro {
+    padding: 50px 10px 65px 20px !important;
+    background-color: #fff !important;
+    width: 95%;
+    border-radius: 1.3rem !important;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+  .modal-desc-quatro h2 {
+    font-size: 30px;
+    line-height: 26px;
+  }
+
+  .modal-desc-quatro h1 {
+    font-size: 16px;
+  }
+
+  .modal-desc-quatro ul li {
+    font-size: 12px;
+  }
+
+  .modal-desc-quinto img {
+    display: none;
+  }
+
+  .modal-desc-quinto {
+    padding: 51px 10px 130px 20px !important;
+    background-color: #fff !important;
+    width: 95%;
+    border-radius: 0 !important;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 1.3rem !important;
+  }
+  .modal-desc-quinto h2 {
+    font-size: 30px;
+    line-height: 26px;
+  }
+
+  .modal-desc-quinto h1 {
+    font-size: 16px;
+  }
+
+  .modal-desc-quinto ul li {
+    font-size: 12px;
+  }
+  .whats a {
+    display: contents;
+    text-decoration: none;
+  }
+
+  .img-mobile {
+    display: initial !important;
+    width: 259px !important;
+    height: 433px;
+    margin-left: 1px !important;
+    margin-top: 100px;
+  }
+}
+
+/* Resolução Ipad */
+
+@media screen and (max-width: 768px) {
+  .logo-header img {
+    width: 130px;
+  }
+
+  #home .navbar-toggler {
+    font-size: 1.25rem;
+  }
+
+  .navbar-nav .nav-item {
+    font-size: 15px;
+  }
+
+  .quem-somos .bloco-img {
+    margin-bottom: 30px;
+  }
+
+  .diferencial h2 {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .diferencial .blocos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .diferencial .blocos .bloco {
+    margin-right: 0px;
+    margin-bottom: 40px;
+  }
+
+  .contato .bloco-texto-contato {
+    align-items: start;
+    flex-direction: column;
+  }
+
+  .contato .bloco-texto-contato p {
+    margin-bottom: 20px !important;
+  }
+
+  footer .menu ul {
+    padding-left: 0;
+  }
+
+  .logo,
+  .menu,
+  .endereco {
+    margin-bottom: 40px;
+  }
+
+  .menu ul li {
+    margin-bottom: 10px;
+  }
+}
+.mob {
+  display: none;
+}
+@media screen and (max-width: 767px) {
+  .desk {
+    display: none;
+  }
+  .mob {
+    display: block;
+  }
+  .diferencial .container div > .bloco-precatorios div {
+    width: 400px;
+  }
+  .diferencial .container div > .bloco-precatorios p:first-child {
+    padding: 100px 30px 20px 30px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .diferencial .container div > .bloco-precatorios p:first-child {
+    padding: 20px 30px 20px 30px;
+  }
+
+  .diferencial .container div > .bloco-precatorios div {
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 12px;
+  }
+
+  .diferencial .preca {
+    left: auto;
+  }
+}
+
+@media screen and (min-width: 1800px) and (max-width: 2000px) {
+  .container {
+    max-width: 1500px !important;
+  }
+  header {
+    height: 97vh;
+  }
+
+  header .container-banner .logo-center img {
+    max-width: 970px;
+  }
+
+  .logo-header img {
+    width: 200px;
+  }
+
+  .icone-scroll {
+    margin-left: 0% !important;
+  }
+
+  #navbarNav a {
+    font-size: 16px !important;
+    padding-left: 2rem;
+  }
+
+  .quem-somos .bloco-img h2 {
+    font-size: 75px !important;
+  }
+
+  .quem-somos .bloco-texto h3 {
+    font-size: 22px !important;
+  }
+
+  .quem-somos .bloco-texto p {
+    font-size: 20px !important;
+  }
+
+  .h2,
+  h2 {
+    font-size: 2.8rem !important;
+  }
+
+  .quem-somos .bloco-texto h3 {
+    font-size: 22px;
+  }
+
+  .quem-somos .bloco-texto p {
+    font-size: 20px;
+  }
+
+  .quem-somos .bloco-socios .socios div p {
+    font-size: 25px;
+  }
+
+  .diferencial .blocos .bloco h4 {
+    font-size: 24px;
+  }
+
+  .diferencial .blocos .bloco p {
+    font-size: 28px;
+    line-height: 37px;
+  }
+
+  .diferencial .blocos .bloco {
+    width: 446px;
+    height: 400px;
+  }
+
+  .diferencial .container div > .bloco-precatorios p {
+    font-size: 23px;
+  }
+
+  .diferencial h2 {
+    font-size: 75px !important;
+  }
+
+  .desafios .title h2 {
+    font-size: 75px !important;
+  }
+
+  .card-body {
+    font-size: 25px !important;
+  }
+
+  body {
+    font-size: 1.3rem !important;
+  }
+
+  .btn {
+    font-size: 1.5rem !important;
+  }
+
+  .resultados .bloco-texto h2 {
+    font-size: 75px !important;
+  }
+
+  .resultados .bloco-texto p {
+    font-size: 23px;
+  }
+
+  .contato .bloco-texto-contato h2 {
+    font-size: 75px !important;
+  }
+
+  #contato .container-conainer {
+    max-width: 1159px !important;
+  }
+
+  footer .menu ul li {
+    font-size: 20px !important;
+  }
+
+  footer .endereco div p {
+    font-size: 20px;
+  }
+
+  .copy {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #contato .container-conainer {
+    max-width: 894px;
+  }
+}
